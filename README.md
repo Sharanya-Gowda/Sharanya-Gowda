@@ -4,8 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a7ce9c39-3211-48ba-87f2-8643b590452e">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanya-gowda&label=Profile%20views&color=0e75b6&style=flat" alt="sharanya-gowda" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanya-gowda" alt="sharanya-gowda" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharanya-Gowda](https://github.com/Sharanya-Gowda)
