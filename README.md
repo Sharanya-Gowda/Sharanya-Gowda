@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sharanya-Gowda/Sharanya-Gowda/blob/main/1.jpg)
 <h3 align="center">Driven developer skilled in full-stack technologies, with a flair for problem solving.
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/bc3a63fa-de89-4935-98e5-9a4035da04a4">
