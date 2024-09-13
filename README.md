@@ -38,7 +38,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
 <a href="https://www.unix.com/"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
-  <a href="https://www.vscode.com/"target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" /></a>
+  <a href="https://code.visualstudio.com/"target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharanya-gowda&show_icons=true&locale=en&layout=compact" alt="sharanya-gowda" /></p>
