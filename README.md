@@ -1,6 +1,4 @@
 ![logo](https://github.com/Sharanya-Gowda/Sharanya-Gowda/blob/main/1.jpg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanya-gowda&label=Profile%20views&color=0e75b6&style=flat" alt="sharanya-gowda" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanya-gowda" alt="sharanya-gowda" /></a> </p>
 
 - 📫 How to reach me **sharanyamavinaguni@gmail.com**
 
