@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://email.com/sharanyamavinaguni@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="sharanyamavinaguni@gmail.com" height="30" width="40" /></a> 
+
 <a href="https://twitter.com/@sharanyams18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sharanyams18" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/sharanya-m-s-752159310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharanya-m-s-752159310/" height="30" width="40" /></a>
 <a href="https://instagram.com/sharanya_gowda18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharanya_gowda18" height="30" width="40" /></a>
