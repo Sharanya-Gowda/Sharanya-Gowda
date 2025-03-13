@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharanya-gowda&show_icons=true&locale=en" alt="sharanya-gowda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharanya-gowda&" alt="sharanya-gowda" /></p>
+
 
 
 
