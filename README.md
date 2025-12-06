@@ -1,9 +1,3 @@
-![logo](https://github.com/Sharanya-Gowda/Sharanya-Gowda/blob/main/1.jpg)
-
-- 📫 How to reach me **sharanyamavinaguni@gmail.com**
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sharanyams18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sharanyams18" height="30" width="40" /></a>  
