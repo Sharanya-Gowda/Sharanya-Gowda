@@ -32,10 +32,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharanya-gowda&show_icons=true&locale=en&layout=compact" alt="sharanya-gowda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharanya-gowda&show_icons=true&locale=en" alt="sharanya-gowda" /></p>
-
 
 
 
