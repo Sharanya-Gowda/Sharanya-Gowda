@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=70&duration=3000&pause=300&color=FF007A&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Hello!!;I'm+Sharanya!)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sharanyams18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sharanyams18" height="30" width="40" /></a>  
