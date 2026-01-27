@@ -34,7 +34,15 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" /></a>
 </p>
 
+---
 
+### 📝 Research & Publications
 
-
-
+**SakhiSuraksha: An AI and IoT-Based Intelligent Emergency Response System for Women's Safety**.
+* Presented at the **4th IEEE International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE-2026)**.
+* Developed an autonomous detection engine that monitors ambient audio for distress signals like screams or aggressive tones.
+* Integrated a sophisticated AI pipeline using **LLaMA 2 13B** and **Stanford CoreNLP** for high-accuracy contextual classification.
+* Engineered a dual-trigger mechanism combining passive voice detection with a discreet **BLE-enabled IoT wearable**.
+* Built a resilient multi-channel alert system (SMS, WhatsApp, and calls) with a critical **offline SMS fallback**.
+* Achieved over **96% detection accuracy** for both English and Hindi with an average response time of **1.3 seconds**.
+* Validated for high reliability, supporting over **500 concurrent users** with **99.97% uptime**.
