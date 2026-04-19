@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=70&duration=3000&pause=300&color=FF007A&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Hello!!;I'm+Sharanya!)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left>Connect with me:</h3>
 <a href="https://twitter.com/@sharanyams18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sharanyams18" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/sharanya-m-s-752159310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharanya-m-s-752159310/" height="30" width="40" /></a>
 <a href="https://instagram.com/sharanya_gowda18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharanya_gowda18" height="30" width="40" /></a>
@@ -11,7 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /></a>
