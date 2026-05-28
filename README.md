@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=70&duration=3000&pause=300&color=FF007A&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Hello!!;I'm+Sharanya!" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <table>
   <tr>
     <td><a href="https://twitter.com/@sharanyams18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
